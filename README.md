@@ -1,3 +1,10 @@
+# this fork is not done yet
+
+it's not even started.
+the plan is to create an extension for the (very simple) aiken format
+
+
+
 # GIFT Format Extension For Visual Studio Code
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/ethan-ou.vscode-gift.svg)](https://vsmarketplacebadge.apphb.com/version-short/ethan-ou.vscode-gift.svg)
